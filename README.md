@@ -1,4 +1,4 @@
-# Làm lại Students Manager App (CLI) tại CoderX
+# Students Manager App (CLI) on CoderX
 # How to run:
 - git clone repo
 - install NodeJS
